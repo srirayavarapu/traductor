@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Traducteur</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="facebook_app_id">149070412396015</string>
+
+
+
+    <string name = "google_play_alert_message"> Si vous aimez Traductor, pouvez-vous nous aider en nous attribuant une note de 5 étoiles? ça va prendre une minute et nous vous en serons très reconnaissants! </string>
+
+     <string name = "settings_1"> Configurations </string>
+     <string name = "change_theme_1"> Modifier la couleur de votre thème: </string>
+     <string name = "save_1"> Enregistrer </string>
+     <string name = "favorites_1"> Favoris </string>
+
+
+     <string name = "enter_text_1"> Entrer le texte </string>
+     <string name = "traduccion_1"> Traduction </string>
+     <string name = "ok_1"> Ok </string>
+     <string name = "its_ok_1"> C\'est bon </string>
+     <string name = "website_url_1"> URL du site Web </string>
+     <string name = "votano_1"> Votez pour nous sur Google Play! </string>
+     <string name = "no_1"> Non </string>
+     <string name = "later_1"> Plus tard </string>
+     <string name = "yes_1"> Oui </string>
+
+
+    <string name = "please_try_1"> Veuillez réessayer </string>
+         <string name = "hello_help_you_1"> Bonjour, Comment puis-je vous aider? </string>
+         <string name = "oops_1"> Oups !!! Veuillez réessayer </string>
+         <string name = "check_internet_1"> Veuillez vérifier votre connexion internet </string>
+
+
+    <string name = "copy_clipboard_1"> Copier dans ClipBoard </string>
+         <string name = "pleaseInstallFacebook_1"> Veuillez installer Facebook Messenger </string>
+         <string name = "pleaseInstallWhatsapp_1"> Veuillez installer WhatsApp </string>
+         <string name = "textinputempty_1"> La saisie de texte est vide </string>
+
+    <string name="go_1">Aller</string>
+    <string-array name="theme_arrays">
+        <item>Normal</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Orange</item>
+        <item>Turquoise</item>
+        <item>Maroon</item>
+        <item>Midnight Blue</item>
+        <item>Gold</item>
+    </string-array>
+    <string name="splash_loading_message">Chargement… veuillez patienter</string>
+</resources>

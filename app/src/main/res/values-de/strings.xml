@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Übersetzer</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="facebook_app_id">149070412396015</string>
+    <!--<string name="google_play_alert_message">If you like De Idiomas can you help us by giving us 5 stars rating? Do not take more than a minute and we will be very grateful !</string>-->
+
+
+    <string name = "google_play_alert_message"> Wenn Sie De Idiomas mögen, können Sie uns helfen, indem Sie uns 5 Sterne geben? Nimm dir nicht mehr als eine Minute Zeit und wir werden dir sehr dankbar sein! </string>
+
+    <string name = "settings_1"> Konfigurationen </string>
+    <string name = "change_theme_1"> Ändern Sie die Farbe Ihres Themas: </string>
+    <string name = "save_1"> Speichern </string>
+    <string name = "favorites_1"> Favoriten </string>
+    
+
+    <string name = "enter_text_1"> Geben Sie text </string> ein
+    <string name = "traduccion_1"> Übersetzung </string>
+    <string name = "ok_1"> Ok </string>
+    <string name = "its_ok_1"> Es ist Okey </string>
+    <string name = "website_url_1"> Website-URL </string>
+    <string name = "votano_1"> Stimmen Sie bei Google Play für uns! </string>
+    <string name = "no_1"> Nein </string>
+    <string name = "later_1"> Später </string>
+    <string name = "yes_1"> Ja </string>
+
+
+    <string name = "please_try_1"> Bitte versuchen Sie es erneut </string>
+         <string name = "hello_help_you_1"> Hallo, wie kann ich Ihnen helfen? </string>
+         <string name = "oops_1"> Hoppla !!! Bitte versuche es erneut </string>
+         <string name = "check_internet_1"> Bitte überprüfen Sie Ihre Internetverbindung </string>
+
+    <string name = "copy_clipboard_1"> Kopieren Sie in Clipboard </string>
+         <string name = "pleaseInstallFacebook_1"> Bitte installieren Sie Facebook Messenger </string>
+         <string name = "pleaseInstallWhatsapp_1"> Bitte installieren Sie WhatsApp </string>
+         <string name = "textinputempty_1"> Texteingabe ist leer </string>
+
+    <string name="go_1">Geh</string>
+
+    <string-array name="theme_arrays">
+        <item>Normal</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Orange</item>
+        <item>Turquoise</item>
+        <item>Maroon</item>
+        <item>Midnight Blue</item>
+        <item>Gold</item>
+    </string-array>
+    <string name="splash_loading_message">Laden… bitte warten</string>
+
+</resources>

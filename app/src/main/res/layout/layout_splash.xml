@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/splashPrimaryDark">
+
+    <ImageView
+        android:id="@+id/app_icon_img_view"
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="@dimen/_150sdp"
+        android:layout_gravity="center"
+        android:src="@mipmap/ic_launcher"
+        android:layout_centerInParent="true"
+        android:visibility="visible" />
+
+    <!--<com.github.ybq.android.spinkit.SpinKitView-->
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--android:id="@+id/splash_spin_kit"-->
+    <!--style="@style/SpinKitView.Small.WanderingCubes"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:layout_below="@id/app_icon_img_view"-->
+    <!--android:layout_above="@id/app_name_tv"-->
+    <!--android:layout_marginLeft="100dp"-->
+    <!--android:layout_marginRight="100dp"-->
+    <!--app:SpinKit_Color="@color/White" />-->
+
+    <ImageView
+        android:id="@+id/loading_imgView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/app_icon_img_view"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="30dp"
+        android:adjustViewBounds="true" />
+
+    <TextView
+        android:id="@+id/app_name_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/app_icon_img_view"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:fontFamily="@font/montserrat_bold"
+        android:text="@string/app_name"
+        android:textColor="@color/White"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/splash_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/app_name_tv"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:visibility="gone"
+        android:layout_marginBottom="50dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/splash_loading_message"
+        android:textAlignment="center"
+        android:textColor="@color/White"
+        android:textSize="25sp"
+        tools:targetApi="jelly_bean" />
+
+</RelativeLayout>

@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <!--Admob-->
+    <string name="ad_app_id" translatable="false">ca-app-pub-4440517763038694~8925161429</string>
+    <string name="ad_id_interstitial" translatable="false">ca-app-pub-4440517763038694/1831487070</string>
+    <string name="ad_id_banner" translatable="false">ca-app-pub-4440517763038694/1556154902</string>
+    <!--TestAds Admob-->
+    <!--    <string name="ad_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>-->
+    <!--    <string name="ad_id_interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--    <string name="ad_id_banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>-->
+
+    <string name="facebook_app_id">544271259371380</string>
+    <string name="facebook_placement_id" translatable="false">544271259371380_556473694817803</string>
+
+    <string name="google_play_alert_message">If you like Traductor can you help us by giving us 5 stars rating? Do not take more than a minute and we will be very grateful !</string>
+
+    <string name="splash_loading_message">Loading… please wait</string>
+
+    <string name="settings_1">Configurations</string>
+    <string name="change_theme_1">Change the color of your theme:</string>
+    <string name="save_1">Save</string>
+    <string name="favorites_1">Favorites</string>
+
+
+    <string name="enter_text_1">Enter text</string>
+    <string name="traduccion_1">Translation</string>
+    <string name="ok_1">      Ok      </string>
+    <string name="its_ok_1">    It\'s Okay    </string>
+    <string name="website_url_1">    Website Url    </string>
+    <string name="votano_1">Vote for us on Google Play!</string>
+    <string name="no_1">No</string>
+    <string name="later_1">Later</string>
+    <string name="yes_1">Yes</string>
+
+
+    <string name="please_try_1">Please try again </string>
+    <string name="hello_help_you_1">Hello, How can I help you?</string>
+    <string name="oops_1">Oops!!! Please try again</string>
+    <string name="check_internet_1">Please check your internet connection</string>
+
+    <string name="copy_clipboard_1">Copy in ClipBoard</string>
+    <string name="pleaseInstallFacebook_1">Please Install Facebook Messenger</string>
+    <string name="pleaseInstallWhatsapp_1">Please Install WhatsApp</string>
+    <string name="textinputempty_1">Text input is empty</string>
+    <string name="go_1">Go</string>
+
+
+    <string-array name="theme_arrays">
+        <item>Normal</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Orange</item>
+        <item>Turquoise</item>
+        <item>Maroon</item>
+        <item>Midnight Blue</item>
+        <item>Gold</item>
+    </string-array>
+
+    <string name="ok" translatable="false">OK</string>
+    <string name="permission_camera_rationale" translatable="false">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission" translatable="false">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error" translatable="false">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main" translatable="false">Detector Sample</string>
+    <string name="ocr_header" translatable="false">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text" translatable="false">Detect Text</string>
+    <string name="auto_focus" translatable="false">Auto Focus</string>
+    <string name="use_flash" translatable="false">Use Flash</string>
+    <string name="ocr_success" translatable="false">Text read successfully</string>
+    <string name="ocr_failure" translatable="false">No text captured</string>
+    <string name="ocr_error" translatable="false">"Error reading text: %1$s"</string>
+
+    <string name="privacy_policy_url" translatable="false">https://www.google.co.in/</string>
+</resources>

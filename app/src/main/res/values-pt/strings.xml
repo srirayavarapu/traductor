@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Tradutor</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="facebook_app_id">149070412396015</string>
+    <!--<string name="google_play_alert_message">If you like De Idiomas can you help us by giving us 5 stars rating? Do not take more than a minute and we will be very grateful !</string>-->
+
+
+
+
+
+    <string name = "google_play_alert_message"> Se você gosta do Traductor, pode nos ajudar dando-nos 5 estrelas? Não demore mais de um minuto e ficaremos muito gratos! </string>
+
+     <string name = "settings_1"> Configurações </string>
+     <string name = "change_theme_1"> Altere a cor do seu tema: </string>
+     <string name = "save_1"> Salvar </string>
+     <string name = "favorites_1"> Favoritos </string>
+
+
+     <string name = "enter_text_1"> Digite o texto </string>
+     <string name = "traduccion_1"> Tradução </string>
+     <string name = "ok_1"> Ok </string>
+     <string name = "its_ok_1"> Está tudo bem </string>
+     <string name = "website_url_1"> URL do site </string>
+     <string name = "votano_1"> Vote no Google Play! </string>
+     <string name = "no_1"> Não </string>
+     <string name = "later_1"> Mais tarde </string>
+     <string name = "yes_1"> Sim </string>
+
+
+
+
+    <string name = "please_try_1"> Por favor, tente novamente </string>
+     <string name = "hello_help_you_1"> Olá, como posso ajudá-lo? </string>
+     <string name = "oops_1"> Oops !!! Por favor, tente novamente </string>
+     <string name = "check_internet_1"> Por favor, verifique sua conexão com a Internet </string>
+
+
+    <string name = "copy_clipboard_1"> Copiar no Clipboard </string>
+     <string name = "pleaseInstallFacebook_1"> Por favor, instale o Facebook Messenger </string>
+     <string name = "pleaseInstallWhatsapp_1"> Por favor, instale o WhatsApp </string>
+     <string name = "textinputempty_1"> A entrada de texto está vazia </string>
+
+
+    <string name="go_1">Ir</string>
+
+    <string-array name="theme_arrays">
+        <item>Normal</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Orange</item>
+        <item>Turquoise</item>
+        <item>Maroon</item>
+        <item>Midnight Blue</item>
+        <item>Gold</item>
+    </string-array>
+    <string name="splash_loading_message">Carregando… por favor espere</string>
+</resources>

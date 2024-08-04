@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Traductor</string>
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="facebook_app_id">149070412396015</string>
+    <!--<string name="google_play_alert_message">If you like De Idiomas can you help us by giving us 5 stars rating? Do not take more than a minute and we will be very grateful !</string>-->
+    <string name="google_play_alert_message">Si te gusta nuestro traductor, ¿podrías votarnos con 5 estrellas? No te llevará más de un minuto, y te estaremos muy agradecidos :)</string>
+
+    <string-array name="theme_arrays">
+        <item>Normal</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Orange</item>
+        <item>Turquoise</item>
+        <item>Maroon</item>
+        <item>Midnight Blue</item>
+        <item>Gold</item>
+    </string-array>
+
+    <string name = "please_try_1"> Inténtalo de nuevo </string>
+         <string name = "hello_help_you_1"> Hola, ¿cómo puedo ayudarte? </string>
+         <string name = "oops_1"> ¡Ups! Por favor, inténtelo de nuevo </string>
+         <string name = "check_internet_1"> Compruebe su conexión a Internet </string>
+
+
+     <string name = "settings_1"> Configuraciones </string>
+     <string name = "change_theme_1"> Cambia el color de tu tema: </string>
+     <string name = "save_1"> Guardar </string>
+     <string name = "favorites_1"> Favoritos </string>
+
+
+     <string name = "enter_text_1"> Ingrese el texto </string>
+     <string name = "traduccion_1"> Traducción </string>
+     <string name = "ok_1"> Vale </string>
+     <string name = "its_ok_1"> Está bien </string>
+     <string name = "website_url_1"> Website Url </string>
+     <string name = "votano_1"> Vótanos en Google Play ! </string>
+     <string name = "no_1"> No </string>
+     <string name = "later_1"> Más tarde </string>
+     <string name = "yes_1"> Sí </string>
+
+
+    <string name = "copy_clipboard_1"> Copiar en ClipBoard </string>
+         <string name = "pleaseInstallFacebook_1"> Instalar Facebook Messenger </string>
+         <string name = "pleaseInstallWhatsapp_1"> Instalar WhatsApp </string>
+         <string name = "textinputempty_1"> La entrada de texto está vacía </string>
+    <string name="go_1">Ir</string>
+    <string name="splash_loading_message">Cargando… por favor espere</string>
+
+
+</resources>
